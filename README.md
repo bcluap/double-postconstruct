@@ -1,6 +1,6 @@
 # double-postconstruct
 
-build/install int hsi order:
+build/install in this order:
 
 BeanManagerTest
 BeanManagerLib
